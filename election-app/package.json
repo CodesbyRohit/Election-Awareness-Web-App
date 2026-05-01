@@ -1,0 +1,19 @@
+{
+  "name": "election-app",
+  "version": "1.0.0",
+  "description": "Election Awareness Web App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1",
+    "ejs": "^3.1.9",
+    "express-session": "^1.17.3"
+  }
+}
